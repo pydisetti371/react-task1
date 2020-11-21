@@ -12,6 +12,35 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.main {
+  margin: 20px;
+}
+.para {
+  padding-top: 30px;
+}
+.disabled {
+  background-color: #008cba;
+  border: none;
+  cursor: not-allowed;
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  opacity: 0.6;
+}
+.button {
+  background-color: #008cba;
+  border: none;
+  cursor: pointer;
+  color: white;
+  padding: 10px 12px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+}
 
 .App-header {
   background-color: #282c34;
